@@ -1,6 +1,4 @@
 
-#if 0
-
 #include <mysql/mysql.h>
 #include <stdio.h>
 #include <stdlib.h>
