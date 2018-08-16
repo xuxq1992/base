@@ -1,3 +1,4 @@
+// g++ test.cpp `mysql_config --cflags --libs` -o test
 
 #include <mysql/mysql.h>
 #include <stdio.h>
